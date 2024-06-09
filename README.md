@@ -3,7 +3,7 @@ Two player spaceship shooting game using pygame in python
 
 player 1
 --------
-Movement: A S W D
+Movement: A, S, W, D
 Fire: Left Ctrl
 
 player 2
